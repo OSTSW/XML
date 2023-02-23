@@ -1,1 +1,10 @@
 
+<root>
+	<consists_is>Summery</consists_is>
+	<consists_is>Description</consists_is>
+	<consists_is>Fix_versions</consists_is>
+	<consists_is>Priority</consists_is>
+	<consists_is>Labels</consists_is>
+	<consists_is>Attachment</consists_is>
+	<consists_is>Assignee</consists_is>
+</root>
