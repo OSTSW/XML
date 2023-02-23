@@ -1,0 +1,23 @@
+<root>
+	<Training_Program>
+		<Testing_theory>1</Testing_theory>
+		<SDLC>2</SDLC>
+		<Qality_assyrance>3</Qality_assyrance>
+		<Types_of_testing>4</Types_of_testing>
+		<Software_development_models>5</Software_development_models>
+		<Documentation>6</Documentation>
+		<Check_list>6.1</Check_list>
+		<bug_report>6.2</bug_report>
+		<Test-case>6.3</Test-case>
+	</Training_Program>
+	<Training_Program>
+		<element>Test_Design_Techniques</element>
+		<element>Client_server_architecture</element>
+		<element>Status_code</element>
+		<element>Dev_Tools</element>
+		<element>Jira</element>
+		<element>Postman</element>
+		<element>SQL</element>
+		<element>Terminal</element>
+		<element>Jmeter</element>
+		<element>Software_development_methodologies</element>
